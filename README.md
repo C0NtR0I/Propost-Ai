@@ -21,16 +21,7 @@ LLaMA – AI model for text generation
 Python – Backend logic
 Streamlit – User-friendly UI
 Pandas & NLP Preprocessing – For data handling
-🚀 Installation & Setup
-Clone the repository
-git clone https://github.com/your-username/linkedin-post-generator.git
-cd linkedin-post-generator
-Install dependencies
-pip install -r requirements.txt
-Run the application
-python main.py
-Access the UI
-Open http://localhost:8501/ in your browser.
+
 📜 Usage Example
 1️⃣ Select any topic from the drop down as the topic.
 2️⃣ Choose Medium length.
